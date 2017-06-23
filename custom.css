@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+.reveal {
+  font-family: 'Roboto Slab', serif;
+}
+
+.reveal strong {
+  color: #FF0066
+}
+
+.small, .attribution {
+  color: #606060;
+  font-size: 70% !important;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  font-family: inherit;
+  text-transform: none;
+}
+
+.reveal ul {
+  list-style-type: none;
+}
+
+.reveal section img {
+  border: none;
+}
+
+.reveal code {
+  color: #33cc33;
+}
